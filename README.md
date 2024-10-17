@@ -2,6 +2,9 @@
 
 ### Technology Graduate working at [HSBC](https://www.hsbc.com);<br>
 
-Learning: `.js`, `.jsx`, `.tsx`, `.sql`, `.py` <br>
+Intermediate: `.py`, `.sql`, `xlsx` <br>
+
+Learning: `.tf`, `.groovy`, `.js/.ts`, `.jsx`  <br>
+
 Find me on [LinkedIn](https://www.linkedin.com/in/lewisjamesellis)
 
