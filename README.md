@@ -2,7 +2,7 @@
 
 ### Technology Graduate working at [HSBC](https://www.hsbc.com);<br>
 
-Intermediate: `.py`, `.sql`, `xlsx` <br>
+Intermediate: `.py`, `.sql`, `.xlsx` <br>
 
 Learning: `.tf`, `.groovy`, `.js/.ts`, `.jsx`  <br>
 
